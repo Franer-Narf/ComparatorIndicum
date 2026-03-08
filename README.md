@@ -27,7 +27,7 @@ Regex or character to filter:
 - Input field for the character, regex, or space that will be used as a filter.
 
 Number of repeated appearances before discarding excessive text:
--This indicates how many times the character must appear before the rest of the text in the line is deleted.
+- This indicates how many times the character must appear before the rest of the text in the line is deleted.
 
 <Solo Modification Panel>
 
@@ -38,7 +38,7 @@ New text file route:
 - Here, the user indicates the path of the new file to be created.
 
 Even lines and odd lines:
--By default, no lines are removed. However, if the user wants to remove even or odd lines, they must select that option.
+- By default, no lines are removed. However, if the user wants to remove even or odd lines, they must select that option.
 
 Text filter:
 - This option allows the user to remove excessive text from each line of the file. To use it, the user must enter the special character that will act as a filter, as well as the number of times it should appear before the rest of the text is deleted.
