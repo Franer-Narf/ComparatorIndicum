@@ -6,7 +6,7 @@ It also allows users to modify files that may contain unwanted content before co
 
 For this reason, the application includes a Solo Modification panel for users who only want to filter a single .txt file.
 
-<Exclusive/Repeated File Content Panel>
+>Exclusive/Repeated File Content Panel<
 
 Exclusive/Repeated content in both files:
 - This option allows the user to choose whether to search for exclusive or repeated content in both .txt files.
@@ -29,7 +29,7 @@ Regex or character to filter:
 Number of repeated appearances before discarding excessive text:
 - This indicates how many times the character must appear before the rest of the text in the line is deleted.
 
-<Solo Modification Panel>
+>Solo Modification Panel<
 
 File text directories:
 - Here, the user loads the path of the file into the program.
